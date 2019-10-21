@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Math-all-exc\Math-all-exc\bin\Debug\Math-all-exc.exe.config
+C:\Users\User\source\repos\Math-all-exc\Math-all-exc\bin\Debug\Math-all-exc.exe
+C:\Users\User\source\repos\Math-all-exc\Math-all-exc\bin\Debug\Math-all-exc.pdb
+C:\Users\User\source\repos\Math-all-exc\Math-all-exc\obj\Debug\Math-all-exc.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Math-all-exc\Math-all-exc\obj\Debug\Math-all-exc.exe
+C:\Users\User\source\repos\Math-all-exc\Math-all-exc\obj\Debug\Math-all-exc.pdb
